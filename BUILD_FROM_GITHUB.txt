@@ -1,0 +1,6 @@
+1. Create a GitHub repository.
+2. Upload the contents of this folder.
+3. Open Actions -> Build Android APK -> Run workflow.
+4. Wait for the green build.
+5. Open the completed workflow run -> Artifacts -> Binomo-AI-Vision-Scanner-Android-debug.
+6. Download the artifact ZIP, extract app-debug.apk, and install it on the Honor X5c Plus.
